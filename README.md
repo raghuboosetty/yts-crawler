@@ -26,32 +26,19 @@ Yts.new("https://yts.pm/browse-movies", {to: 3, imdb_rating_gt: 7, rt_cirtic_rat
 
 
 #### Genres
-* Action
-* Adventure
-* Animation
+* Action, Adventure, Animation
 * Biography 
-* Comedy 
-* Crime 
-* Documentary 
-* Drama 
-* Family 
-* Fantasy 
-* Film-Noir 
+* Comedy, Crime 
+* Documentary, Drama 
+* Family,Fantasy, Film-Noir 
 * Game-Show 
-* History 
-* Horror 
-* Music 
-* Musical 
-* Mystery 
+* History, Horror 
+* Music, Musical, Mystery 
 * News 
-* Reality-TV 
-* Romance 
-* Sci-Fi 
-* Sport 
-* Talk-Show 
-* Thriller 
-* War 
-* Western
+* Reality-TV, Romance 
+* Sci-Fi, Sport 
+* Talk-Show, Thriller 
+* War, Western
 
 ## Output
 ![](yts-output.png)

@@ -52,3 +52,6 @@ Yts.new("https://yts.pm/browse-movies", {to: 3, imdb_rating_gt: 7, rt_cirtic_rat
 * Thriller 
 * War 
 * Western
+
+## Output
+![](yts-output.png)

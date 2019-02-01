@@ -13,7 +13,7 @@ Yts.new("https://yts.pm/browse-movies", {to: 3, imdb_rating_gt: 7, rt_cirtic_rat
 ```
 
 ## The params that new method take are:
-### Mandatory Params
+### Mandatory Param in String
 * url(string) : YTS url
 
 ### Optional Params in Hash
@@ -22,7 +22,7 @@ Yts.new("https://yts.pm/browse-movies", {to: 3, imdb_rating_gt: 7, rt_cirtic_rat
 * imdb_rating_gt(float) : IMDB rating greater than
 * rt_critic_rating_gt(float) : Rotten Tomatos critic rating greater than
 * year_gt(integer) : Year greater than
-* exclude_genres(Array) : Genres to be excluded
+* exclude_genres(array) : Genres to be excluded
 
 
 #### Genres
